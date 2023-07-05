@@ -4,3 +4,6 @@
 plot(mtcars)
 
 plot(mtcars$mpg, mtcars$cyl)
+
+plot(mtcars$mpg, mtcars$disp )
+
